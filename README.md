@@ -1,6 +1,6 @@
-App de una calculadora hecho con react native.
+App de una calculadora hecho con react native y typescript.
 
 -- Crear App con Expo:
-expo init app-calculadora
-cd app-calculadora
-yarn start
+1. expo init app-calculadora
+2. cd app-calculadora
+3. yarn start
